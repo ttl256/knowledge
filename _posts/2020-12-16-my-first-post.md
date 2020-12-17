@@ -11,4 +11,4 @@ Here's my first post
 
 Pasting an image from a cloud
 
-![](https://yadi.sk/d/O5pMdPVousPWgQ)
+![](https://yadi.sk/d/O5pMdPVousPWgQ.png)
